@@ -23,3 +23,10 @@
 - **Risk_Flag (Target):**
     - **0:** Potensial gagal bayar rendah
     - **1:** Potensial gagal bayar tinggi
+
+
+## Instalasi
+
+Ikuti langkah-langkah berikut untuk menjalankan proyek ini:
+- **Clone Repository:**
+git clone https://github.com/EurekaLab6/Loan_Prediction.git
