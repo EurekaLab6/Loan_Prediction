@@ -23,6 +23,9 @@
 - **Risk_Flag (Target):**
     - **0:** Potensial gagal bayar rendah
     - **1:** Potensial gagal bayar tinggi
+ 
+## Summary of EDA
+Dataset Loan Prediction digunakan untuk mengidentifikasi pola gagal bayar. Hasil analisis menunjukkan bahwa kreditur dengan status single, tanpa aset, berpenghasilan rendah, atau memiliki pengalaman kerja terbatas memiliki risiko gagal bayar tertinggi. Profesi tertentu, seperti polisi, dan lokasi domisili, seperti Kota Bhubaneswar dan negara bagian Manipur, juga menjadi faktor signifikan. Berdasarkan temuan ini, kami merekomendasikan pengembangan kategori pinjaman fleksibel berdasarkan kelas ekonomi kreditur, pelatihan literasi keuangan, dan kerja sama dengan institusi lokal untuk meminimalkan risiko gagal bayar. Selain itu, penyesuaian batas kredit, suku bunga, serta dukungan berbasis komunitas diusulkan untuk meningkatkan keberhasilan program pinjaman.
 
 
 ## Instalasi
