@@ -33,3 +33,5 @@ Dataset Loan Prediction digunakan untuk mengidentifikasi pola gagal bayar. Hasil
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini:
 - **Clone Repository:**
 git clone https://github.com/EurekaLab6/Loan_Prediction.git
+- **Streamlit App:**
+[Streamlit](https://final-riskmodelapp-eurekalab.streamlit.app/)
