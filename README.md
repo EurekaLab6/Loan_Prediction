@@ -9,7 +9,7 @@
 - In this case, **the acceptable default threshold is 5% based on Bank Indonesia Circular Letter No 6/23/DPNP 2004**, but in reality, **the default rate recorded reached 12.3%**.
 
 # Purpose
-reduce the default rate to 5% based on the threshold that has been set.
+Reduce the default rate to 5% based on the threshold that has been set.
 
 # Dataset
 - **Id:** User identity (object)
@@ -56,7 +56,7 @@ The Loan Prediction dataset is used to identify default patterns. The analysis s
 
 # ML Modeling
 Before train the model, split the data into train set & test set (size is 20%). Trained the model with 5 different algorithm and evaluated them with **Recall**. The reason is to **reduce** False Negative. This is for good filtering potential customers, and in the end, creditors can prevent defaults made by prospective customers in the future. The model was trained  with:
-   - Decision Tree
+   - **Decision Tree**
    - Random Forest
    - XGBoost
    - KNN
