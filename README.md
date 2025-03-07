@@ -1,5 +1,32 @@
 # Loan Prediction Based on Customer Behavior
 
+- Build a model to help the creditor team to filter potential customers and prevent defaults.
+- Extraction feature to optimizing the learning process of model
+- Train model with 5 different algorithms, and choose 1 for next hyperparameter tuning
+- Handle imbalanced class with Combining oversampling and undersampling (hybrid techniques)
+
+# Problems
+- In this case, **the acceptable default threshold is 5% based on Bank Indonesia Circular Letter No 6/23/DPNP 2004**, but in reality, **the default rate recorded reached 12.3%**.
+
+# Purpose
+reduce the default rate to 5% based on the threshold that has been set
+
+# Exploratory Data Analysis
+   1. Distributin City of Risk Flag
+    ![1](https://github.com/user-attachments/assets/f3ff4bb1-cdaf-41a3-97b3-d9f63e83ad33)
+
+   2. Distribution income of Risk Flag
+    ![2](https://github.com/user-attachments/assets/dc5ea1b6-e37d-49b0-bfdb-9f5eba8c287b)
+
+   3. Distribution Age of Risk Flag
+    ![3](https://github.com/user-attachments/assets/722c51aa-788f-43e9-9ed8-cc4a24680764)
+
+   4. Distribution Profession of Risk FLag
+    ![4](https://github.com/user-attachments/assets/fafbc925-8e25-43ea-89eb-f6a7f6555707)
+
+   5. Distribution Experience of Risk Flag
+    ![5](https://github.com/user-attachments/assets/7a0882be-ffaf-44ed-9eb2-ae2489949589)
+
 ## Dataset
 - **Id:** Identitas user (object)
 - **Income:** Penghasilan tiap bulan Mata uang Rupee (float)
